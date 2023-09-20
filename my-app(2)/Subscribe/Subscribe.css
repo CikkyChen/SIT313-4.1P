@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.subscribe-container{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(75, 196, 140);
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading{
+    margin: -10px 0px;
+    margin-left: 305px;
+}
+
+ 
+
+.subscribe-input{
+    margin-top: 5px;
+    width: 450px;
+    height: 40px;
+    background-color: white;
+}
+
+ 
+.subscribe-input input{
+    margin-left: 4px;
+    width: 449px;
+    height: 39px;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+ 
+
+.sub button{
+    width: 123px;
+    height: 40px;
+    background-color: #bbb5b5;
+    margin-top: 5px;
+    border: none;
+}
+
+.sub a{
+    text-decoration: none;
+    margin-right: 23px;
+    margin-top: 5px;
+}
+
+ 
+
+.sub button:hover{
+    background-color: rgb(136, 132, 132);
+    cursor: pointer;
+}
